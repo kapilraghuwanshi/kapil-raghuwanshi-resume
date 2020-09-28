@@ -1,4 +1,4 @@
-# kapil-raghuwanshi-resume
+# kapil-raghuwanshi-resume-As an npm package 
 The quick NPM Resume of Kapil Raghuwanshi, a software developer who loves to work with JavaScript and Deep Learning.
 
 Just jump to your terminal/command prompt and type `npx kapil-raghuwanshi-resume` into the command line.

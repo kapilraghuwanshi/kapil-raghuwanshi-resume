@@ -11,6 +11,7 @@
   "bin": {
     "kapil-raghuwanshi-resume": "./index.js"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "npm test"
   },
