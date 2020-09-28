@@ -3,6 +3,7 @@
 
 const inquirer = require("inquirer");
 const chalk = require("chalk");
+
 const data = require("./data.json");
 
 // add response color
