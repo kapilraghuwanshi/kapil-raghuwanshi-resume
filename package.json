@@ -1,0 +1,25 @@
+{
+  "name": "kapil-raghuwanshi-resume",
+  "version": "1.0.0",
+  "description": "The quick resume of software developer Kapil Raghuwanshi, who loves to work with JavaScript.",
+  "main": "index.js",
+  "bin": {
+    "kapil-raghuwanshi-resume": "./index.js"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Resume",
+    "JavaScript",
+    "BioData",
+    "NPM",
+    "Node.js"
+  ],
+  "author": "Kapil Raghuwanshi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
+  }
+}
