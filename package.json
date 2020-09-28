@@ -1,6 +1,6 @@
 {
   "name": "kapil-raghuwanshi-resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The quick resume of software developer Kapil Raghuwanshi, who loves to work with JavaScript.",
   "homepage": "https://github.com/kapilraghuwanshi/kapil-raghuwanshi-resume/blob/master/README.md",
   "repository": {
@@ -11,7 +11,9 @@
   "bin": {
     "kapil-raghuwanshi-resume": "./index.js"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "npm test"
   },
