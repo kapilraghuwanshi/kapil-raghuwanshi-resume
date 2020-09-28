@@ -16,7 +16,7 @@ const resumeOptions = {
 };
 
 function showResume() {
-  console.log("Hola, This is Kapil's Resume..");
+  console.log("Hola guys, This is Kapil's Resume...");
   handleResume();
 }
 
