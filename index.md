@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# kapil-raghuwanshi-resume - as an npm package 
+The quick NPM Package Resume of Kapil Raghuwanshi, a software developer who loves to work with JavaScript and Deep Learning.
 
-You can use the [editor on GitHub](https://github.com/kapilraghuwanshi/kapil-raghuwanshi-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Just jump to your terminal/command prompt (Hope you have Node installed) and type `npx kapil-raghuwanshi-resume` into the command line. And you can select among the various headings as in the real time resume to know more about me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Note: `npx` is the way to run commands without installing them locally to your machine. It’s available by default with NPM which comes with Node.
 
-### Markdown
+This is just a simple terminal app published on NPM.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kapilraghuwanshi/kapil-raghuwanshi-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### NPM Package Link: https://www.npmjs.com/package/kapil-raghuwanshi-resume
