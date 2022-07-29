@@ -1,29 +1,31 @@
 {
     "Introduction 😃": [
-        "Full-stack JavaScript and Mobile App Engineer with 5.1 years of Software Development Professional experience.",
+        "Full-stack JavaScript and Mobile App Engineer with 7+ years of Software Development Professional experience.",
         "B.Tech in Computer Science with Honors (8.13 CGPA), seeking challenging and exciting opportunities in premium Software Companies. ",
-        "Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using the latest versions of Angular, React.js, Ionic 4, and IO & Network-intensive Node.JS backend APIs.",
+        "Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using the latest versions of React.js, Vue.js, Nuxt.js, Angular, React.js, Ionic 4, React Native and IO & Network-intensive Node.JS backend APIs.",
         "I am currently learning and doing hands-on of Machine Learning & Deep Learning in my spare time."
     ],
     "Skills🤳": [
-        "JavaScript - React.js, Angular, Node, Express.js, Typescript",
-        "FrontEnd - HTML5, CSS3 - SCSS, Responsiveness, Unit Testing",
-        "App Dev - Ionic 4 Cross platform App & PWA development with Capacitor and Apache Cordova",
+        "JavaScript - React.js, Angular, Node, Express.js, Typescript, Vue.js, Nuxt.js",
+        "App Dev - React Native, Ionic 4 Cross platform App & PWA development with Capacitor and Apache Cordova",
         "Databases – SQL - Postgres, Oracle, No-SQL - MongoDB, Firebase",
-        "Micro-services, Dockers, Git/GitHub, Agile/Scrum"
+        "FrontEnd - HTML5, CSS3 - SCSS, Responsiveness, Unit Testing",
+        "Micro-services, Dockers, ElasticSearch, NewRelic, Git/GitHub, Agile/Scrum"
     ],
     "Experience 🎓": [
-        "Full Stack JavaScript Developer at Epsilon, 2019-Current",
+        "Front End and Mobile App Developer - Ola, 2021 - current",
+        "Full Stack JavaScript (MEAN) Developer at Epsilon, 2019-2021",
         "MEAN Stack and Hybrid App Developer at Cognizant Technology Solutions, 2018-2019",
         "Java and Hybrid App Developer at Tata Consultancy Services, 2015-2018"
     ],
     "Additional Projects 📱": [
-        "World Top News - Hybrid App & Progressive Web App - (https://goo.gl/TxUuUm)",
+        "𝗕𝗶𝗻𝗴𝗲 𝗦𝗲𝗮𝗿𝗰𝗵🔍-𝗬𝗼𝘂𝗿 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲🎥😍 - (https://www.bingesearch.com)",
         "Corona Tracker - Progressive Web App - (https://coronatracker-20efc.web.app/)",
-        "𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗧𝗿𝗶𝘃𝗶𝗮😍 - 𝗔𝗹𝗲𝘅𝗮 𝗦𝗸𝗶𝗹𝗹 - (https://www.amazon.in/dp/B086K4N469)"
+        "𝗖𝗿𝗶𝗰𝗸𝗲𝘁 𝗧𝗿𝗶𝘃𝗶𝗮😍 - 𝗔𝗹𝗲𝘅𝗮 𝗦𝗸𝗶𝗹𝗹 - (https://www.amazon.in/dp/B086K4N469)",
+        "World Top News - Hybrid App & Progressive Web App - (https://goo.gl/TxUuUm)"
     ],
     "Education 🎓": [
-        "Bachelor of Engineering - Computer Science - 81.3%, 2015"
+        "Bachelor of Engineering (B.Tech) - Computer Science - 81.3%, 2015"
     ],
     "Certifications 🏆": [
         "Deep Learning: Face Recognition ",
@@ -32,8 +34,13 @@
     ],
     "Contact 📞": [
         "Email: Kapil.raghuwanshi5@gmail.com",
-        "Website: https://about.me/kialabs",
+        "Portfolio: https://about.me/kialabs",
         "LinkedIn: https://in.linkedin.com/in/kapilraghuwanshi",
-        "GitHub: https://github.com/kapilraghuwanshi"
+        "Twitter: https://twitter.com/techygeeeky",
+        "GitHub: https://github.com/kapilraghuwanshi",
+        "Medium: https://techygeeky.medium.com/",
+        "CodePen: https://codepen.io/techygeeky",
+        "StackOverflow: https://stackoverflow.com/users/8668095/kapil-raghuwanshi",
+        "HackerRank: https://www.hackerrank.com/techygeeky?hr_r=1"
     ]
 }
